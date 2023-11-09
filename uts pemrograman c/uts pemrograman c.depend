@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699511941 source:e:\sems 5\c\uts pemrograman c\main.c
+	<stdio.h>
+	<unistd.h>
+
